@@ -12,7 +12,7 @@ Table of Contents:
 
 
 Introduction
-This is a Python-based Port Scanner tool with a graphical user interface (GUI) created using Tkinter. It allows users to quickly and easily scan for open ports on a target host. Port scanning is a crucial step in assessing the security of a network, and this tool makes the process more user-friendly.
+> This is a Python-based Port Scanner tool with a graphical user interface (GUI) created using Tkinter. It allows users to quickly and easily scan for open ports on a target host. Port scanning is a crucial step in assessing the security of a network, and this tool makes the process more user-friendly.
 The tool utilizes Python's built-in socket library to establish connections with the specified ports on the target host and determine their status (open or closed).
 
 
