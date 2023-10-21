@@ -1,3 +1,5 @@
+# Here is a code using tkinter(python) that is used to create a port scannning tool
+
 import socket                        # 'socket' is a module that is capable to provide all low-level-network functionalities
 import tkinter as tk                 # Here 'tkinter' is the standerd python interface for tkinter GUI ttoolkit
 from tkinter import messagebox       # 'messagebox' provides the way to create dailog boxes
