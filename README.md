@@ -50,15 +50,15 @@ Usage
 
 
 Scan Results
-The tool will display the scan results in the graphical interface, showing which ports are open and closed. You can also export the results to a text file for further analysis.
+> The tool will display the scan results in the graphical interface, showing which ports are open and closed. You can also export the results to a text file for further analysis.
 
 Contribution
-We welcome contributions from the community. If you'd like to enhance the functionality, fix issues, or add new features to this Port Scanning Tool, please feel free to fork the repository, make your changes, and submit a pull request.
+> We welcome contributions from the community. If you'd like to enhance the functionality, fix issues, or add new features to this Port Scanning Tool, please feel free to fork the repository, make your changes, and submit a pull request.
 
 License
-This Port Scanning Tool is open-source and released under the MIT License. You are free to use, modify, and distribute it as per the terms of the license.
+> This Port Scanning Tool is open-source and released under the MIT License. You are free to use, modify, and distribute it as per the terms of the license.
 
 Support
-If you encounter any issues or have questions, please open an issue in this repository, and our community or maintainers will assist you.
+> If you encounter any issues or have questions, please open an issue in this repository, and our community or maintainers will assist you.
 
 Happy scanning!
